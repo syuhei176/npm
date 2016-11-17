@@ -65,6 +65,7 @@
     "mississippi": "~1.2.0",
     "mkdirp": "~0.5.1",
     "node-gyp": "~3.4.0",
+    "node-uuid": "~1.4.7",
     "nopt": "~3.0.6",
     "normalize-git-url": "~3.0.2",
     "normalize-package-data": "~2.3.5",

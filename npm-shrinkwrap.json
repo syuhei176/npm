@@ -721,6 +721,11 @@
         }
       }
     },
+    "node-uuid": {
+      "version": "1.4.7",
+      "from": "node-uuid@1.4.7",
+      "resolved": "https://registry.npmjs.org/node-uuid/-/node-uuid-1.4.7.tgz"
+    },
     "nopt": {
       "version": "3.0.6",
       "from": "nopt@>=3.0.6 <3.1.0",
@@ -1241,12 +1246,6 @@
                               "dev": true
                             }
                           }
-                        },
-                        "node-uuid": {
-                          "version": "1.4.7",
-                          "from": "node-uuid@>=1.4.0 <1.5.0",
-                          "resolved": "https://registry.npmjs.org/node-uuid/-/node-uuid-1.4.7.tgz",
-                          "dev": true
                         },
                         "oauth-sign": {
                           "version": "0.6.0",
@@ -1898,11 +1897,6 @@
               "resolved": "https://registry.npmjs.org/mime-db/-/mime-db-1.24.0.tgz"
             }
           }
-        },
-        "node-uuid": {
-          "version": "1.4.7",
-          "from": "node-uuid@>=1.4.7 <1.5.0",
-          "resolved": "https://registry.npmjs.org/node-uuid/-/node-uuid-1.4.7.tgz"
         },
         "oauth-sign": {
           "version": "0.8.2",
@@ -3640,12 +3634,6 @@
                       "dev": true
                     }
                   }
-                },
-                "node-uuid": {
-                  "version": "1.4.7",
-                  "from": "node-uuid@~1.4.7",
-                  "resolved": "https://registry.npmjs.org/node-uuid/-/node-uuid-1.4.7.tgz",
-                  "dev": true
                 },
                 "oauth-sign": {
                   "version": "0.8.2",
